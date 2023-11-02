@@ -1,0 +1,21 @@
+# Örnek görevler
+tasks:
+  - name: Koyun Öldürme
+    type: KILL_SHEEP
+    goal: 50
+
+  - name: Zombi Öldürme
+    type: KILL_ZOMBIE
+    goal: 25
+
+  - name: Elmas Cevheri Kırma
+    type: BREAK_DIAMOND_ORE
+    goal: 40
+
+  - name: Buğday Hasat Etme
+    type: HARVEST_WHEAT
+    goal: 40
+
+  - name: Elmas Kılıç Craft Etme
+    type: CRAFT_DIAMOND_SWORD
+    goal: 3
